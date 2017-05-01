@@ -9,12 +9,11 @@ header-img: "img/zhihu.jpg"
 ###Path：
 
 
-- 加入了XOGroup旗下TheKnots.com广州研发中心——诺特软件开发有限公司 Android开发
+- 加入了CSG——佛山电力
 
-- 加入了ZTESoft 中兴软创 广州研发中心 
-  Java开发
+-
 
-- 追寻更好的自己
+- 骐骥一跃，不可十步。驽马十驾，功在不舍。
 
 
 
